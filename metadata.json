@@ -1,0 +1,6 @@
+{
+  "name": "ChessSight",
+  "description": "Minimalist chessboard scanner and best-move analyzer powered by Gemini AI and Stockfish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

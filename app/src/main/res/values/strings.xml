@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ChessSight</string>
+    <string name="tagline_subtitle">Pemindai Papan &amp; Stockfish</string>
+    <string name="action_scan_camera">Kamera</string>
+    <string name="action_scan_gallery">Galeri</string>
+    <string name="action_edit_board">Edit</string>
+    <string name="action_flip_board">Putar</string>
+    <string name="action_reset_board">Reset</string>
+    <string name="action_history">Riwayat</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_explain_move">Jelaskan Langkah</string>
+    <string name="engine_stockfish_online">Stockfish Cloud</string>
+    <string name="engine_local_offline">Mesin Lokal</string>
+    <string name="engine_analyzing">Menganalisis…</string>
+    <string name="scanning_board">Membaca papan dengan Gemini AI…</string>
+    <string name="camera_permission_title">Izin Kamera Diperlukan</string>
+    <string name="camera_permission_desc">Berikan izin kamera untuk memindai papan catur secara langsung, atau pilih screenshot dari galeri.</string>
+    <string name="camera_grant_button">Izinkan Kamera</string>
+    <string name="camera_use_gallery">Pilih dari Galeri</string>
+    <string name="turn_white">Putih Jalan</string>
+    <string name="turn_black">Hitam Jalan</string>
+    <string name="bottom_white">Putih di Bawah</string>
+    <string name="bottom_black">Hitam di Bawah</string>
+    <string name="best_move_label">BEST MOVE</string>
+    <string name="continuation_label">Garis Lanjutan</string>
+    <string name="no_moves_available">Tidak ada langkah legal tersedia.</string>
+    <string name="editor_title">Editor Papan &amp; FEN</string>
+    <string name="history_title">Riwayat Pindaian</string>
+    <string name="history_empty">Belum ada posisi tersimpan. Pindai papan atau simpan posisi untuk melihat riwayat.</string>
+    <string name="settings_title">Pengaturan Mesin</string>
+    <string name="cd_chessboard">Papan catur interaktif</string>
+    <string name="cd_eval_bar">Bilah evaluasi posisi</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_flash">Lampu kilat kamera</string>
+    <string name="cd_capture">Ambil foto papan catur</string>
+</resources>
